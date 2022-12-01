@@ -6,7 +6,7 @@
 # version = 1.0
 # Purpose/Change: init
 # ---------------------------------------------------------------------------
-""" Details about the module and for what purpose it was built for""" 
+"""Toggle Level Bubbles on or off independently""" 
 
 import clr
 # Import DocumentManager
