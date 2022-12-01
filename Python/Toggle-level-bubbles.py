@@ -6,7 +6,7 @@
 # version = 1.0
 # Purpose/Change: init
 # ---------------------------------------------------------------------------
-"""Toggle Level Bubbles on or off independently""" 
+"""Toggle Level Bubbles on or off independently for Dynamo""" 
 
 import clr
 # Import DocumentManager
